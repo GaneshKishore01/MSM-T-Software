@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/GaneshKishore01/HemoCnn/blob/main/src/HemoCnn.png" /># HemoCnn
+A convolutional neural network trained using PyTorch to classify eight distinct blood cell subtypes with an accuracy of 89.38%.
 # **Description**
 
 ## **What it is**
