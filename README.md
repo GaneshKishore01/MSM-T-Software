@@ -20,11 +20,11 @@ The software also includes additional features for:
 ---
 
 ## **Instructions**
-
-1. **Extract** the contents of `MSMT.zip`
-2. **Copy** the `MTSM` folder from `/assets` into:  
+1. Download `MSMT.zip` from releases.
+2. **Extract** the contents of `MSMT.zip`
+3. **Copy** the `MTSM` folder from `/assets` into:  
    `C:\Users\GANESH\AppData\Roaming\`
-3. **Configure** the Jackett and qBittorrent ports in the **Settings** tab
-4. Enjoy!
+4. **Configure** the Jackett and qBittorrent ports in the **Settings** tab
+5. Enjoy!
 
 ---
