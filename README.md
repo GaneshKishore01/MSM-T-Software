@@ -21,7 +21,7 @@ The software also includes additional features for:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+      <img src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/About.png" width="400"/>
     </td>
     <td align="center">
       <img src="https://github.com/GaneshKishore01/MSM-T-Software/blob/main/src/TrackFromMagnet.png" width="400"/>
