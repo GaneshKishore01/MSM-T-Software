@@ -18,6 +18,24 @@ The software also includes additional features for:
 
 - **Magnet search:**  
   Uses **Jackett** to aggregate torrent search results from multiple indexers.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GaneshKishore01/Smart-Hydroponics-PCB/blob/main/src/centre.png" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
